@@ -1,6 +1,0 @@
-node_modules
-.env
-/public/bower/
-locale/
-!locale/en_US/*
-!locale/localeinfo.json
